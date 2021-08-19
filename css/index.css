@@ -1,0 +1,42 @@
+.bg-blue{
+background-color: #00D7DF;
+}
+.text-blue{
+color: #00D7DF;
+}
+.madi{
+    border-radius: 88px;
+}
+.web{
+left: 79px;
+top: 289px;
+border-radius: 34px;
+}
+.graphic{
+left: 79px;
+top: 640px;
+border-radius: 34px;
+}
+.ui{
+left: 757px;
+top: 308px;
+border-radius: 34px;
+}
+.data{
+ border-radius: 34px;
+left: 757px;
+top: 671px;
+}
+.border-blue{
+    border-color: #00D7DF;
+}
+.like{
+    background-color: #00D7DF;
+    text-align: center;
+    color: white;
+    padding: 1rem;
+
+}
+.section{
+    margin:1rem
+}
